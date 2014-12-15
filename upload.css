@@ -1,0 +1,41 @@
+figure
+{
+	height: 100%;
+	position: absolute;
+	top: -16px;
+	left: -40px;
+	background: url('freedom_wallpaper_miscellaneous_other_wallpaper_1680_1050_widescreen_3294.jpg') no-repeat scroll 0px 0px / cover transparent;
+	z-index: 20;
+	width: 100%;
+    
+}
+.back
+{
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.25);
+	z-index: 33;
+	position: absolute;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	color: rgba(255, 255, 255, 1);
+}
+
+first 
+{
+    text-align: center;
+    font-size: 55px;
+    position: absolute;
+    top: 35%;
+    right: 8%;
+}
+
+
+#sec 
+{
+    position: absolute;
+    top: 76px;
+    width: 100%;
+    font-size: 43%;
+    left: 0%;
+}
